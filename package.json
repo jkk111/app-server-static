@@ -1,0 +1,22 @@
+{
+  "name": "app-server-static",
+  "version": "1.0.0",
+  "description": "Static Content Server for Application Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkk111/app-server-static.git"
+  },
+  "author": "jkk111",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jkk111/app-server-static/issues"
+  },
+  "homepage": "https://github.com/jkk111/app-server-static#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
