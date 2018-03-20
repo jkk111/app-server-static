@@ -4,4 +4,7 @@ let app = express();
 
 const STATIC_PATH = `${__dirname}/static`
 app.use(express.static(STATIC_PATH))
+
+console.log(socket);
+
 app.listen(socket)
